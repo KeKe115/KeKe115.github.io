@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+名前 : けーけ
+出身 : 西日本のどこか
+趣味 : プログラミング・旅・バイク
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+バイクはホンダの`CBF125`に乗ってます。もうすぐ乗り換えますが...
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)

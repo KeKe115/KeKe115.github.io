@@ -6,6 +6,7 @@ title: About
 permalink: /about/
 ---
 
+# About me
 名前 : けーけ
 趣味 : プログラミング・旅・バイク
 
